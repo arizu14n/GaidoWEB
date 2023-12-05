@@ -1,0 +1,25 @@
+* {
+   margin: 0;
+   padding: 0;
+}
+
+body{
+    
+   background-color: rgb(243, 253, 232)
+    
+}
+
+aside{
+    
+    background-color: rgb(255, 229, 229)
+     
+ }
+
+ footer{
+    background-color: rgb(255, 191, 191);
+ }
+
+ .nav-item{
+    text-emphasis: bold;
+    font-size: large;
+ }
